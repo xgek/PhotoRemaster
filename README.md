@@ -1,2 +1,1 @@
-# PhotoRemaster
-PulseFrame Acceleration Platform for AdvancedColorGrading and AIPowered ImageRefinement FusionEngine with UltraHighDefinition architecture providing enterprise-grade PhotoRemaster solutions
+.
